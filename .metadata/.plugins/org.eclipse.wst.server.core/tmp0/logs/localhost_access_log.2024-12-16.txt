@@ -1,0 +1,6 @@
+127.0.0.1 - - [16/Dec/2024:11:54:14 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Dec/2024:11:54:15 +0530] "GET /ServletProject_Staticpage1/index.html HTTP/1.1" 200 236
+0:0:0:0:0:0:0:1 - - [16/Dec/2024:11:54:15 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [16/Dec/2024:11:54:23 +0530] "GET /ServletProject_Staticpage1/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Dec/2024:11:54:41 +0530] "GET /ServletProject_Staticpage1/home.html? HTTP/1.1" 200 160
+0:0:0:0:0:0:0:1 - - [16/Dec/2024:11:55:15 +0530] "GET /ServletProject_Staticpage1/index.html HTTP/1.1" 200 240

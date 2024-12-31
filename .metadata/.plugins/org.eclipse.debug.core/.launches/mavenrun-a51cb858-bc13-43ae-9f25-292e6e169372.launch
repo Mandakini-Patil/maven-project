@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.m2e.Maven2LaunchConfigurationType">
+    <booleanAttribute key="M2_BATCH" value="false"/>
+    <stringAttribute key="M2_GOALS" value="-U archetype:generate"/>
+    <listAttribute key="M2_PROPERTIES">
+        <listEntry value="archetypeGroupId=org.apache.maven.archetypes"/>
+        <listEntry value="archetypeArtifactId=maven-archetype-quickstart"/>
+        <listEntry value="archetypeVersion=1.1"/>
+        <listEntry value="groupId=com.jsp.jdbc"/>
+        <listEntry value="artifactId=JDBC_Maven_Example"/>
+        <listEntry value="version=0.0.1-SNAPSHOT"/>
+        <listEntry value="package=com.jsp.jdbc.mavenexample"/>
+        <listEntry value="outputDirectory=C:\Users\91636\OneDrive\Documents\Desktop\servlet season2"/>
+    </listAttribute>
+    <booleanAttribute key="M2_SAVE_BEFORE_LAUNCH" value="false"/>
+    <booleanAttribute key="org.eclipse.debug.ui.private" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="C:\Users\91636\AppData\Local\Temp\m2e-archetypeGenerator4487815173609683009"/>
+</launchConfiguration>

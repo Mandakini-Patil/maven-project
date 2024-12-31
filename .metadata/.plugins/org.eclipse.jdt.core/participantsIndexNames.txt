@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3845996480.index
+\SevletProject_staticpage\src\main\resources
+C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2584406904.index
+\ServletProject_staticpage\src\main\resources

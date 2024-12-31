@@ -1,0 +1,12 @@
+127.0.0.1 - - [19/Dec/2024:11:20:54 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:11:20:54 +0530] "GET /ServletProject_EmployeeDB/index.html HTTP/1.1" 200 290
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:11:20:54 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:11:20:57 +0530] "GET /ServletProject_EmployeeDB/AddEmployee.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:11:21:04 +0530] "GET /ServletProject_EmployeeDB/add-employee?employeeId=10&employeeName=sanjay&employeeEmail=s%40gmail.com&employeeSalary=20000 HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2024:11:23:01 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:11:23:20 +0530] "GET /ServletProject_EmployeeDB/add-employee?employeeId=01&employeeName=sri&employeeEmail=s%40gmail.com&employeeSalary=200 HTTP/1.1" 200 25
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:11:24:00 +0530] "GET /ServletProject_EmployeeDB/UpdateEmployee.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:11:24:15 +0530] "GET /ServletProject_EmployeeDB/update-employee?employeeId=101&employeeName=raj HTTP/1.1" 200 -
+127.0.0.1 - - [19/Dec/2024:11:24:44 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:11:24:55 +0530] "GET /ServletProject_EmployeeDB/update-employee?employeeId=101&employeeName=ram HTTP/1.1" 200 25
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:11:25:36 +0530] "GET /ServletProject_EmployeeDB/update-employee?employeeId=101&employeeName=ram HTTP/1.1" 200 24

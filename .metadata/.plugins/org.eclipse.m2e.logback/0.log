@@ -1,0 +1,900 @@
+2024-12-11 16:43:34,944 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-12-11 16:45:26,759 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [638])
+2024-12-11 16:45:26,764 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-12-11 16:45:26,764 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2024-12-11 16:45:26,765 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2024-12-11 16:45:26,765 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2024-12-11 16:45:26,766 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2024-12-11 16:45:26,766 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2024-12-11 16:45:26,766 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2024-12-11 16:45:26,766 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2024-12-11 16:45:26,767 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2024-12-11 16:45:26,767 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2024-12-11 16:45:26,767 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2024-12-11 16:45:26,768 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2024-12-11 16:45:26,768 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2024-12-11 16:45:26,768 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2024-12-11 16:45:26,769 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2024-12-11 16:45:26,769 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2024-12-11 16:45:26,769 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2024-12-11 16:45:26,770 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2024-12-11 16:45:26,770 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2024-12-11 16:45:26,770 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2024-12-11 16:45:26,770 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2024-12-11 16:45:26,771 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2024-12-11 16:45:26,771 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2024-12-11 16:45:26,771 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2024-12-11 16:45:26,772 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2024-12-11 16:45:26,772 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2024-12-11 16:45:26,773 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2024-12-11 16:45:26,773 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2024-12-11 16:45:26,774 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2024-12-11 16:45:26,774 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-12-11 16:45:26,774 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-12-11 16:45:26,776 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2024-12-11 16:45:26,776 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2024-12-11 16:45:26,777 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2024-12-11 16:45:26,777 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2024-12-11 16:45:26,778 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2024-12-11 16:45:26,778 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2024-12-11 16:45:26,778 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2024-12-11 16:45:26,778 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2024-12-11 16:45:26,779 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2024-12-11 16:45:26,779 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2024-12-11 16:45:26,779 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2024-12-11 16:45:26,783 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [14])
+2024-12-11 16:45:26,784 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\com.google.guava_33.0.0.jre.jar
+2024-12-11 16:45:26,785 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [1001])
+2024-12-11 16:45:26,786 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\slf4j.api_2.0.12.jar
+2024-12-11 16:45:26,786 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [32])
+2024-12-11 16:45:26,787 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-12-11 16:45:26,787 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [27])
+2024-12-11 16:45:26,788 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\jakarta.annotation-api_1.3.5.jar
+2024-12-11 16:45:26,788 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [75])
+2024-12-11 16:45:26,789 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.apache.commons.cli_1.6.0.jar
+2024-12-11 16:45:26,789 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2024-12-11 16:45:26,790 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-12-11 16:45:26,790 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [86])
+2024-12-11 16:45:26,791 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-12-11 16:45:26,791 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [15])
+2024-12-11 16:45:26,792 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-12-11 16:45:26,806 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\91636\AppData\Local\Temp\m2e-archetypeGenerator4487815173609683009":
+2024-12-11 16:45:26,812 [Worker-0: Launching mavenrun-a51cb858-bc13-43ae-9f25-292e6e169372] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.1 -DgroupId=com.jsp.jdbc -DartifactId=JDBC_Maven_Example -Dversion=0.0.1-SNAPSHOT -Dpackage=com.jsp.jdbc.mavenexample -DoutputDirectory="C:\Users\91636\OneDrive\Documents\Desktop\servlet season2" -Dstyle.color=always -U archetype:generate
+2024-12-11 16:45:44,662 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\JDBC_Maven_Example\pom.xml
+2024-12-11 16:45:46,578 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jsp.jdbc:JDBC_Maven_Example:0.0.1-SNAPSHOT @ C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\JDBC_Maven_Example\pom.xml.
+2024-12-11 16:45:47,997 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JDBC_Maven_Example/src/main/java
+2024-12-11 16:45:47,999 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JDBC_Maven_Example/src/main/resources
+2024-12-11 16:45:48,009 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JDBC_Maven_Example/src/test/java
+2024-12-11 16:45:48,010 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JDBC_Maven_Example/src/test/resources
+2024-12-11 16:45:48,211 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-12-11 16:45:49,071 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\JDBC_Maven_Example\src\main\resources
+2024-12-11 16:45:49,076 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\JDBC_Maven_Example\src\test\resources
+2024-12-11 16:48:01,400 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jsp.jdbc:JDBC_Maven_Example:0.0.1-SNAPSHOT @ C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\JDBC_Maven_Example\pom.xml.
+2024-12-11 16:48:01,816 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\JDBC_Maven_Example\src\main\resources
+2024-12-11 16:48:01,823 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\JDBC_Maven_Example\src\test\resources
+2024-12-11 16:50:46,594 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\JDBC_Maven_Example\src\main\resources
+2024-12-11 16:50:46,600 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\JDBC_Maven_Example\src\test\resources
+2024-12-11 16:58:41,990 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-11 16:59:17,005 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\JDBC_Maven_Example\src\main\resources
+2024-12-11 16:59:17,011 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\JDBC_Maven_Example\src\test\resources
+2024-12-11 16:59:45,955 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\JDBC_Maven_Example\src\main\resources
+2024-12-11 16:59:45,961 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\JDBC_Maven_Example\src\test\resources
+2024-12-11 17:06:34,855 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\JDBC_Maven_Example\src\main\resources
+2024-12-11 17:06:34,863 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\JDBC_Maven_Example\src\test\resources
+2024-12-12 11:54:40,813 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-13 12:08:42,927 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-13 12:09:28,426 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [638])
+2024-12-13 12:09:28,429 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-12-13 12:09:28,429 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2024-12-13 12:09:28,429 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2024-12-13 12:09:28,430 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2024-12-13 12:09:28,430 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2024-12-13 12:09:28,430 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2024-12-13 12:09:28,431 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2024-12-13 12:09:28,431 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2024-12-13 12:09:28,431 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2024-12-13 12:09:28,431 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2024-12-13 12:09:28,432 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2024-12-13 12:09:28,432 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2024-12-13 12:09:28,432 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2024-12-13 12:09:28,433 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2024-12-13 12:09:28,433 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2024-12-13 12:09:28,433 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2024-12-13 12:09:28,433 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2024-12-13 12:09:28,434 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2024-12-13 12:09:28,434 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2024-12-13 12:09:28,434 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2024-12-13 12:09:28,434 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2024-12-13 12:09:28,435 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2024-12-13 12:09:28,435 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2024-12-13 12:09:28,435 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2024-12-13 12:09:28,436 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2024-12-13 12:09:28,436 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2024-12-13 12:09:28,436 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2024-12-13 12:09:28,437 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2024-12-13 12:09:28,437 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2024-12-13 12:09:28,437 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-12-13 12:09:28,437 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-12-13 12:09:28,438 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2024-12-13 12:09:28,438 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2024-12-13 12:09:28,438 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2024-12-13 12:09:28,439 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2024-12-13 12:09:28,439 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2024-12-13 12:09:28,439 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2024-12-13 12:09:28,440 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2024-12-13 12:09:28,440 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2024-12-13 12:09:28,440 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2024-12-13 12:09:28,441 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2024-12-13 12:09:28,441 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2024-12-13 12:09:28,443 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [14])
+2024-12-13 12:09:28,445 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\com.google.guava_33.0.0.jre.jar
+2024-12-13 12:09:28,445 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [1001])
+2024-12-13 12:09:28,446 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\slf4j.api_2.0.12.jar
+2024-12-13 12:09:28,446 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [32])
+2024-12-13 12:09:28,447 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-12-13 12:09:28,447 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [27])
+2024-12-13 12:09:28,448 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\jakarta.annotation-api_1.3.5.jar
+2024-12-13 12:09:28,448 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [75])
+2024-12-13 12:09:28,449 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.apache.commons.cli_1.6.0.jar
+2024-12-13 12:09:28,449 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2024-12-13 12:09:28,451 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-12-13 12:09:28,451 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [86])
+2024-12-13 12:09:28,451 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-12-13 12:09:28,451 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [15])
+2024-12-13 12:09:28,452 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-12-13 12:09:28,466 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\91636\AppData\Local\Temp\m2e-archetypeGenerator16933920929687474766":
+2024-12-13 12:09:28,472 [Worker-1: Launching mavenrun-c2cadf4d-fbb1-470f-8abf-83cc5d08ee5a] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.0 -DgroupId=com.jsp.jdbc -DartifactId=ServletProject_staticpage -Dversion=0.0.1-SNAPSHOT -Dpackage=com.jsp.jdbc.staticpage -DoutputDirectory="C:\Users\91636\OneDrive\Documents\Desktop\servlet season2" -Dstyle.color=always -U archetype:generate
+2024-12-13 12:09:55,981 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_staticpage\pom.xml
+2024-12-13 12:09:57,687 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp.jdbc:ServletProject_staticpage:0.0.1-SNAPSHOT @ C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_staticpage\pom.xml.
+2024-12-13 12:09:59,929 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ServletProject_staticpage/src/main/java
+2024-12-13 12:09:59,932 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ServletProject_staticpage/src/main/resources
+2024-12-13 12:09:59,934 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ServletProject_staticpage/src/test/java
+2024-12-13 12:09:59,935 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ServletProject_staticpage/src/test/resources
+2024-12-13 12:10:00,749 [Worker-12: Creating maven-archetype-webapp] ERROR o.e.m.w.jsf.internal.utils.JSFUtils - An error occurred trying to find javax.faces.webapp.FacesServlet :
+java.net.UnknownHostException: java.sun.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:572)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at java.base/java.net.Socket.connect(Socket.java:583)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:533)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:638)
+	at java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:281)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:386)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:408)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1309)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1057)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1665)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:677)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startEntity(XMLEntityManager.java:1397)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startDTDEntity(XMLEntityManager.java:1363)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDTDScannerImpl.setInputSource(XMLDTDScannerImpl.java:257)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.dispatch(XMLDocumentScannerImpl.java:1152)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.next(XMLDocumentScannerImpl.java:1040)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:943)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:247)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:342)
+	at java.xml/javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:122)
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:141)
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:117)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.hasFacesServletInWebXml(WebXmlJSFFacetDetector.java:82)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.findFacetVersion(WebXmlJSFFacetDetector.java:57)
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:93)
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:63)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configureInternal(JSFProjectConfigurator.java:95)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configure(JSFProjectConfigurator.java:70)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:123)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$6(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:497)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:165)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:138)
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenProjectWizard$3.doCreateMavenProjects(MavenProjectWizard.java:251)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:51)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:56)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:55)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-12-13 12:10:00,799 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-12-13 12:10:01,364 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:10:01,372 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-13 12:10:01,376 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:10:01,377 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_staticpage\src\test\resources
+2024-12-13 12:10:02,204 [Worker-9: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:10:02,210 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-13 12:10:02,214 [Worker-9: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:10:02,215 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_staticpage\src\test\resources
+2024-12-13 12:12:50,227 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [638])
+2024-12-13 12:12:50,228 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-12-13 12:12:50,228 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2024-12-13 12:12:50,228 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2024-12-13 12:12:50,228 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2024-12-13 12:12:50,228 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2024-12-13 12:12:50,228 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2024-12-13 12:12:50,232 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2024-12-13 12:12:50,232 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2024-12-13 12:12:50,232 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2024-12-13 12:12:50,232 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2024-12-13 12:12:50,232 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2024-12-13 12:12:50,233 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2024-12-13 12:12:50,233 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2024-12-13 12:12:50,233 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2024-12-13 12:12:50,234 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2024-12-13 12:12:50,234 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2024-12-13 12:12:50,234 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2024-12-13 12:12:50,235 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2024-12-13 12:12:50,235 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2024-12-13 12:12:50,235 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2024-12-13 12:12:50,236 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2024-12-13 12:12:50,236 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2024-12-13 12:12:50,237 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2024-12-13 12:12:50,237 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2024-12-13 12:12:50,238 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2024-12-13 12:12:50,238 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2024-12-13 12:12:50,238 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2024-12-13 12:12:50,239 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2024-12-13 12:12:50,239 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2024-12-13 12:12:50,240 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-12-13 12:12:50,240 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-12-13 12:12:50,241 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2024-12-13 12:12:50,241 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2024-12-13 12:12:50,241 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2024-12-13 12:12:50,242 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2024-12-13 12:12:50,243 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2024-12-13 12:12:50,243 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2024-12-13 12:12:50,243 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2024-12-13 12:12:50,244 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2024-12-13 12:12:50,244 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2024-12-13 12:12:50,244 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2024-12-13 12:12:50,245 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2024-12-13 12:12:50,245 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [14])
+2024-12-13 12:12:50,247 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\com.google.guava_33.0.0.jre.jar
+2024-12-13 12:12:50,247 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [1001])
+2024-12-13 12:12:50,248 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\slf4j.api_2.0.12.jar
+2024-12-13 12:12:50,250 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [32])
+2024-12-13 12:12:50,253 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-12-13 12:12:50,255 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [27])
+2024-12-13 12:12:50,258 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\jakarta.annotation-api_1.3.5.jar
+2024-12-13 12:12:50,259 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [75])
+2024-12-13 12:12:50,265 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.apache.commons.cli_1.6.0.jar
+2024-12-13 12:12:50,265 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2024-12-13 12:12:50,266 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-12-13 12:12:50,267 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [86])
+2024-12-13 12:12:50,268 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-12-13 12:12:50,268 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [15])
+2024-12-13 12:12:50,269 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-12-13 12:12:50,273 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\91636\AppData\Local\Temp\m2e-archetypeGenerator15052988201639383830":
+2024-12-13 12:12:50,273 [Worker-2: Launching mavenrun-5f8be186-d11d-4943-983a-575a003eb3d2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.0 -DgroupId=com.jsp.jdbc -DartifactId=SevletProject_staticpage -Dversion=0.0.1-SNAPSHOT -Dpackage=com.jsp.jdbc.staticpage -DoutputDirectory="C:\Users\91636\OneDrive\Documents\Desktop\servlet season2" -Dstyle.color=always -U archetype:generate
+2024-12-13 12:13:04,067 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\SevletProject_staticpage\pom.xml
+2024-12-13 12:13:04,319 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp.jdbc:SevletProject_staticpage:0.0.1-SNAPSHOT @ C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\SevletProject_staticpage\pom.xml.
+2024-12-13 12:13:05,008 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SevletProject_staticpage/src/main/java
+2024-12-13 12:13:05,009 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SevletProject_staticpage/src/main/resources
+2024-12-13 12:13:05,009 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SevletProject_staticpage/src/test/java
+2024-12-13 12:13:05,010 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SevletProject_staticpage/src/test/resources
+2024-12-13 12:13:05,245 [Worker-8: Creating maven-archetype-webapp] ERROR o.e.m.w.jsf.internal.utils.JSFUtils - An error occurred trying to find javax.faces.webapp.FacesServlet :
+java.net.UnknownHostException: java.sun.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:572)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at java.base/java.net.Socket.connect(Socket.java:583)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:533)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:638)
+	at java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:281)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:386)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:408)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1309)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1057)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1665)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:677)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startEntity(XMLEntityManager.java:1397)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startDTDEntity(XMLEntityManager.java:1363)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDTDScannerImpl.setInputSource(XMLDTDScannerImpl.java:257)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.dispatch(XMLDocumentScannerImpl.java:1152)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.next(XMLDocumentScannerImpl.java:1040)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:943)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:247)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:342)
+	at java.xml/javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:122)
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:141)
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:117)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.hasFacesServletInWebXml(WebXmlJSFFacetDetector.java:82)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.findFacetVersion(WebXmlJSFFacetDetector.java:57)
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:93)
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:63)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configureInternal(JSFProjectConfigurator.java:95)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configure(JSFProjectConfigurator.java:70)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:123)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$6(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:497)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:165)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:138)
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenProjectWizard$3.doCreateMavenProjects(MavenProjectWizard.java:251)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:51)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:56)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:55)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-12-13 12:13:05,262 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-12-13 12:13:05,474 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:13:05,475 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-13 12:13:05,478 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:13:05,480 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\SevletProject_staticpage\src\test\resources
+2024-12-13 12:13:06,907 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:13:06,911 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-13 12:13:06,913 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:13:06,914 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\SevletProject_staticpage\src\test\resources
+2024-12-13 12:13:19,939 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-13 12:13:20,191 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp.jdbc:SevletProject_staticpage:0.0.1-SNAPSHOT @ C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\SevletProject_staticpage\pom.xml.
+2024-12-13 12:13:20,741 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SevletProject_staticpage/src/main/java
+2024-12-13 12:13:20,743 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SevletProject_staticpage/src/main/resources
+2024-12-13 12:13:20,743 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SevletProject_staticpage/src/test/java
+2024-12-13 12:13:20,745 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SevletProject_staticpage/src/test/resources
+2024-12-13 12:13:20,785 [Worker-15: Updating Maven Project] ERROR o.e.m.w.jsf.internal.utils.JSFUtils - An error occurred trying to find javax.faces.webapp.FacesServlet :
+java.net.UnknownHostException: java.sun.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:572)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at java.base/java.net.Socket.connect(Socket.java:583)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:533)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:638)
+	at java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:281)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:386)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:408)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1309)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1057)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1665)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:677)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startEntity(XMLEntityManager.java:1397)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startDTDEntity(XMLEntityManager.java:1363)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDTDScannerImpl.setInputSource(XMLDTDScannerImpl.java:257)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.dispatch(XMLDocumentScannerImpl.java:1152)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.next(XMLDocumentScannerImpl.java:1040)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:943)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:247)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:342)
+	at java.xml/javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:122)
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:141)
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:117)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.hasFacesServletInWebXml(WebXmlJSFFacetDetector.java:82)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.findFacetVersion(WebXmlJSFFacetDetector.java:57)
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:93)
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:63)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configureInternal(JSFProjectConfigurator.java:95)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configure(JSFProjectConfigurator.java:70)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:123)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$6(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:497)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$4(ProjectConfigurationManager.java:425)
+	at java.base/java.util.Collection.removeIf(Collection.java:576)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:413)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1053)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-12-13 12:13:20,871 [Worker-15: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SevletProject_staticpage
+2024-12-13 12:13:20,888 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-12-13 12:13:21,039 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:13:21,042 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-13 12:13:21,067 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:13:21,068 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\SevletProject_staticpage\src\test\resources
+2024-12-13 12:13:21,068 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SevletProject_staticpage
+2024-12-13 12:13:21,069 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SevletProject_staticpage
+2024-12-13 12:13:50,322 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-13 12:13:50,560 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp.jdbc:SevletProject_staticpage:0.0.1-SNAPSHOT @ C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\SevletProject_staticpage\pom.xml.
+2024-12-13 12:13:51,108 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SevletProject_staticpage/src/main/java
+2024-12-13 12:13:51,109 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SevletProject_staticpage/src/main/resources
+2024-12-13 12:13:51,110 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SevletProject_staticpage/src/test/java
+2024-12-13 12:13:51,111 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SevletProject_staticpage/src/test/resources
+2024-12-13 12:13:51,144 [Worker-8: Updating Maven Project] ERROR o.e.m.w.jsf.internal.utils.JSFUtils - An error occurred trying to find javax.faces.webapp.FacesServlet :
+java.net.UnknownHostException: java.sun.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:572)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at java.base/java.net.Socket.connect(Socket.java:583)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:533)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:638)
+	at java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:281)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:386)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:408)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1309)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1057)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1665)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:677)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startEntity(XMLEntityManager.java:1397)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startDTDEntity(XMLEntityManager.java:1363)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDTDScannerImpl.setInputSource(XMLDTDScannerImpl.java:257)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.dispatch(XMLDocumentScannerImpl.java:1152)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.next(XMLDocumentScannerImpl.java:1040)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:943)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:247)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:342)
+	at java.xml/javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:122)
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:141)
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:117)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.hasFacesServletInWebXml(WebXmlJSFFacetDetector.java:82)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.findFacetVersion(WebXmlJSFFacetDetector.java:57)
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:93)
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:63)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configureInternal(JSFProjectConfigurator.java:95)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configure(JSFProjectConfigurator.java:70)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:123)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$6(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:497)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$4(ProjectConfigurationManager.java:425)
+	at java.base/java.util.Collection.removeIf(Collection.java:576)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:413)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1053)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-12-13 12:13:51,223 [Worker-8: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SevletProject_staticpage
+2024-12-13 12:13:51,239 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-12-13 12:13:51,378 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:13:51,380 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-13 12:13:51,386 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:13:51,387 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\SevletProject_staticpage\src\test\resources
+2024-12-13 12:13:51,388 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SevletProject_staticpage
+2024-12-13 12:13:51,388 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SevletProject_staticpage
+2024-12-13 12:14:57,453 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:14:57,457 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-13 12:14:57,461 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:14:57,463 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\SevletProject_staticpage\src\test\resources
+2024-12-13 12:15:18,512 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:15:18,515 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-13 12:15:18,518 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:15:18,521 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\SevletProject_staticpage\src\test\resources
+2024-12-13 12:15:53,100 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:15:53,103 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-13 12:15:53,107 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:15:53,108 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\SevletProject_staticpage\src\test\resources
+2024-12-13 12:16:54,254 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-13 12:16:54,503 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp.jdbc:SevletProject_staticpage:0.0.1-SNAPSHOT @ C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\SevletProject_staticpage\pom.xml.
+2024-12-13 12:16:55,089 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SevletProject_staticpage/src/main/java
+2024-12-13 12:16:55,090 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SevletProject_staticpage/src/main/resources
+2024-12-13 12:16:55,091 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SevletProject_staticpage/src/test/java
+2024-12-13 12:16:55,092 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SevletProject_staticpage/src/test/resources
+2024-12-13 12:16:55,137 [Worker-8: Updating Maven Project] ERROR o.e.m.w.jsf.internal.utils.JSFUtils - An error occurred trying to find javax.faces.webapp.FacesServlet :
+java.net.UnknownHostException: java.sun.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:572)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at java.base/java.net.Socket.connect(Socket.java:583)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:533)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:638)
+	at java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:281)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:386)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:408)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1309)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1057)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1665)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:677)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startEntity(XMLEntityManager.java:1397)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startDTDEntity(XMLEntityManager.java:1363)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDTDScannerImpl.setInputSource(XMLDTDScannerImpl.java:257)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.dispatch(XMLDocumentScannerImpl.java:1152)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.next(XMLDocumentScannerImpl.java:1040)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:943)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:247)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:342)
+	at java.xml/javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:122)
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:141)
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:117)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.hasFacesServletInWebXml(WebXmlJSFFacetDetector.java:82)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.findFacetVersion(WebXmlJSFFacetDetector.java:57)
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:93)
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:63)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configureInternal(JSFProjectConfigurator.java:95)
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configure(JSFProjectConfigurator.java:70)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:123)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$6(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:497)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$4(ProjectConfigurationManager.java:425)
+	at java.base/java.util.Collection.removeIf(Collection.java:576)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:413)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1053)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:338)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:80)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-12-13 12:16:55,206 [Worker-8: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SevletProject_staticpage
+2024-12-13 12:16:55,222 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-12-13 12:16:55,427 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:16:55,429 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-13 12:16:55,434 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-13 12:16:55,435 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\SevletProject_staticpage\src\test\resources
+2024-12-13 12:16:55,436 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SevletProject_staticpage
+2024-12-13 12:16:55,436 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SevletProject_staticpage
+2024-12-16 11:43:30,800 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-12-16 11:43:31,677 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2024-12-16 11:47:12,179 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-12-16 11:49:25,052 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [638])
+2024-12-16 11:49:25,057 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-12-16 11:49:25,057 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2024-12-16 11:49:25,057 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2024-12-16 11:49:25,058 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2024-12-16 11:49:25,058 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2024-12-16 11:49:25,058 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2024-12-16 11:49:25,058 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2024-12-16 11:49:25,059 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2024-12-16 11:49:25,059 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2024-12-16 11:49:25,059 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2024-12-16 11:49:25,059 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2024-12-16 11:49:25,060 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2024-12-16 11:49:25,060 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2024-12-16 11:49:25,060 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2024-12-16 11:49:25,060 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2024-12-16 11:49:25,061 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2024-12-16 11:49:25,061 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2024-12-16 11:49:25,061 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2024-12-16 11:49:25,061 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2024-12-16 11:49:25,062 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2024-12-16 11:49:25,062 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2024-12-16 11:49:25,062 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2024-12-16 11:49:25,062 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2024-12-16 11:49:25,063 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2024-12-16 11:49:25,063 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2024-12-16 11:49:25,063 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2024-12-16 11:49:25,063 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2024-12-16 11:49:25,063 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2024-12-16 11:49:25,064 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2024-12-16 11:49:25,064 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-12-16 11:49:25,064 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-12-16 11:49:25,065 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2024-12-16 11:49:25,065 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2024-12-16 11:49:25,065 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2024-12-16 11:49:25,065 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2024-12-16 11:49:25,066 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2024-12-16 11:49:25,066 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2024-12-16 11:49:25,066 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2024-12-16 11:49:25,067 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2024-12-16 11:49:25,067 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2024-12-16 11:49:25,068 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2024-12-16 11:49:25,068 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2024-12-16 11:49:25,070 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [14])
+2024-12-16 11:49:25,071 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\com.google.guava_33.0.0.jre.jar
+2024-12-16 11:49:25,071 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [1001])
+2024-12-16 11:49:25,072 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\slf4j.api_2.0.12.jar
+2024-12-16 11:49:25,072 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [32])
+2024-12-16 11:49:25,073 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-12-16 11:49:25,073 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [27])
+2024-12-16 11:49:25,073 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\jakarta.annotation-api_1.3.5.jar
+2024-12-16 11:49:25,073 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [75])
+2024-12-16 11:49:25,075 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.apache.commons.cli_1.6.0.jar
+2024-12-16 11:49:25,075 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2024-12-16 11:49:25,075 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-12-16 11:49:25,076 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [86])
+2024-12-16 11:49:25,077 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-12-16 11:49:25,077 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [15])
+2024-12-16 11:49:25,077 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-12-16 11:49:25,082 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\91636\AppData\Local\Temp\m2e-archetypeGenerator3928334939462044753":
+2024-12-16 11:49:25,086 [Worker-2: Launching mavenrun-edb88954-eb5e-47d2-b86c-9be7e7516db3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.0 -DgroupId=com.jsp.servlet -DartifactId=ServletProject_Staticpage1 -Dversion=0.0.1-SNAPSHOT -Dpackage=com.jsp.servlet.ServletProject -DoutputDirectory="C:\Users\91636\OneDrive\Documents\Desktop\servlet season2" -Dstyle.color=always -U archetype:generate
+2024-12-16 11:49:55,158 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_Staticpage1\pom.xml
+2024-12-16 11:49:57,417 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp.servlet:ServletProject_Staticpage1:0.0.1-SNAPSHOT @ C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_Staticpage1\pom.xml.
+2024-12-16 11:49:59,777 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ServletProject_Staticpage1/src/main/java
+2024-12-16 11:49:59,779 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ServletProject_Staticpage1/src/main/resources
+2024-12-16 11:49:59,779 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ServletProject_Staticpage1/src/test/java
+2024-12-16 11:49:59,780 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ServletProject_Staticpage1/src/test/resources
+2024-12-16 11:50:00,909 [Worker-8: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2024-12-16 11:50:01,580 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:50:01,587 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 11:50:01,591 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:50:01,593 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_Staticpage1\src\test\resources
+2024-12-16 11:50:21,750 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:50:21,755 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 11:50:21,759 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:50:21,760 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_Staticpage1\src\test\resources
+2024-12-16 11:50:38,496 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:50:38,501 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 11:50:38,507 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:50:38,509 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_Staticpage1\src\test\resources
+2024-12-16 11:50:51,479 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:50:51,482 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 11:50:51,485 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:50:51,486 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_Staticpage1\src\test\resources
+2024-12-16 11:50:57,269 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:50:57,270 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 11:50:57,273 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:50:57,273 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\SevletProject_staticpage\src\test\resources
+2024-12-16 11:52:50,659 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:52:50,663 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 11:52:50,666 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:52:50,668 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_Staticpage1\src\test\resources
+2024-12-16 11:53:24,438 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:53:24,441 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 11:53:24,444 [Worker-2: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:53:24,445 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_Staticpage1\src\test\resources
+2024-12-16 11:55:12,478 [Worker-19: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:55:12,480 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-16 11:55:12,484 [Worker-19: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-16 11:55:12,486 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_Staticpage1\src\test\resources
+2024-12-16 14:36:15,545 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-18 16:50:35,235 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-18 16:51:57,487 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [638])
+2024-12-18 16:51:57,492 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-12-18 16:51:57,493 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2024-12-18 16:51:57,493 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2024-12-18 16:51:57,493 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2024-12-18 16:51:57,494 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2024-12-18 16:51:57,494 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2024-12-18 16:51:57,494 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2024-12-18 16:51:57,494 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2024-12-18 16:51:57,495 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2024-12-18 16:51:57,495 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2024-12-18 16:51:57,495 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2024-12-18 16:51:57,495 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2024-12-18 16:51:57,497 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2024-12-18 16:51:57,497 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2024-12-18 16:51:57,497 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2024-12-18 16:51:57,498 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2024-12-18 16:51:57,498 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2024-12-18 16:51:57,498 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2024-12-18 16:51:57,499 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2024-12-18 16:51:57,499 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2024-12-18 16:51:57,499 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2024-12-18 16:51:57,500 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2024-12-18 16:51:57,500 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2024-12-18 16:51:57,500 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2024-12-18 16:51:57,501 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2024-12-18 16:51:57,501 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2024-12-18 16:51:57,502 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2024-12-18 16:51:57,502 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2024-12-18 16:51:57,503 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2024-12-18 16:51:57,503 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-12-18 16:51:57,504 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-12-18 16:51:57,504 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2024-12-18 16:51:57,504 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2024-12-18 16:51:57,504 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2024-12-18 16:51:57,505 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2024-12-18 16:51:57,505 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2024-12-18 16:51:57,505 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2024-12-18 16:51:57,505 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2024-12-18 16:51:57,506 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2024-12-18 16:51:57,506 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2024-12-18 16:51:57,506 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2024-12-18 16:51:57,506 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2024-12-18 16:51:57,510 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [14])
+2024-12-18 16:51:57,510 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\com.google.guava_33.0.0.jre.jar
+2024-12-18 16:51:57,511 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [1001])
+2024-12-18 16:51:57,511 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\slf4j.api_2.0.12.jar
+2024-12-18 16:51:57,511 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [32])
+2024-12-18 16:51:57,512 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-12-18 16:51:57,512 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [27])
+2024-12-18 16:51:57,513 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\jakarta.annotation-api_1.3.5.jar
+2024-12-18 16:51:57,513 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [75])
+2024-12-18 16:51:57,513 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.apache.commons.cli_1.6.0.jar
+2024-12-18 16:51:57,513 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2024-12-18 16:51:57,514 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-12-18 16:51:57,514 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [86])
+2024-12-18 16:51:57,514 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-12-18 16:51:57,514 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [15])
+2024-12-18 16:51:57,515 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\91636\Downloads\eclipse-j2ee-2024-03\eclipse\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-12-18 16:51:57,522 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\91636\AppData\Local\Temp\m2e-archetypeGenerator13668093641307493382":
+2024-12-18 16:51:57,530 [Worker-6: Launching mavenrun-307fdfdb-e97c-4c90-bda5-3a2104b4d922] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.0 -DgroupId=com.jsp.servlet -DartifactId=ServletProject_EmployeeDB -Dversion=0.0.1-SNAPSHOT -Dpackage=com.jsp.servlet.Employeedb -DoutputDirectory="C:\Users\91636\OneDrive\Documents\Desktop\servlet season2" -Dstyle.color=always -U archetype:generate
+2024-12-18 16:52:10,267 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_EmployeeDB\pom.xml
+2024-12-18 16:52:11,379 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp.servlet:ServletProject_EmployeeDB:0.0.1-SNAPSHOT @ C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_EmployeeDB\pom.xml.
+2024-12-18 16:52:13,439 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ServletProject_EmployeeDB/src/main/java
+2024-12-18 16:52:13,441 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ServletProject_EmployeeDB/src/main/resources
+2024-12-18 16:52:13,442 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ServletProject_EmployeeDB/src/test/java
+2024-12-18 16:52:13,445 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ServletProject_EmployeeDB/src/test/resources
+2024-12-18 16:52:14,262 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-12-18 16:52:14,585 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 16:52:14,588 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 16:52:14,591 [Worker-21: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 16:52:14,592 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_EmployeeDB\src\test\resources
+2024-12-18 16:52:15,316 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 16:52:15,321 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 16:52:15,324 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 16:52:15,326 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_EmployeeDB\src\test\resources
+2024-12-18 16:52:40,427 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 16:52:40,429 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 16:52:40,434 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 16:52:40,436 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 16:52:55,588 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 16:52:55,591 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 16:52:55,595 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 16:52:55,598 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 16:55:55,993 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp.servlet:ServletProject_EmployeeDB:0.0.1-SNAPSHOT @ C:\Users\91636\OneDrive\Documents\Desktop\servlet season2\ServletProject_EmployeeDB\pom.xml.
+2024-12-18 16:55:56,908 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 16:55:56,914 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 16:55:56,918 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 16:55:56,922 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 16:56:17,405 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 16:56:17,407 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 16:56:17,410 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 16:56:17,414 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 16:56:44,895 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 16:56:44,899 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 16:56:44,903 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 16:56:44,907 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:03:05,273 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:03:05,279 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:03:05,283 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:03:05,287 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:07:24,391 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:07:24,394 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:07:24,397 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:07:24,399 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:08:14,652 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:08:14,657 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:08:14,661 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:08:14,665 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:32:43,850 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:32:43,855 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:32:43,860 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:32:43,864 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:34:54,505 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:34:54,509 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:34:54,515 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:34:54,520 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:36:21,467 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:36:21,473 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:36:21,477 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:36:21,480 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:37:30,735 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:37:30,739 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:37:30,743 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:37:30,747 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:38:19,355 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:38:19,402 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:38:19,407 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:38:19,413 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:39:52,617 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:39:52,621 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:39:52,626 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:39:52,631 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:40:50,373 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:40:50,376 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:40:50,379 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:40:50,383 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:42:46,073 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:42:46,077 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:42:46,081 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:42:46,085 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:43:41,306 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:43:41,310 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:43:41,314 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:43:41,319 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:46:50,693 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:46:50,698 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:46:50,703 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:46:50,706 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:47:50,092 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:47:50,096 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:47:50,098 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:47:50,102 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:49:49,666 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:49:49,671 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:49:49,675 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:49:49,679 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:51:15,639 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:51:15,644 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:51:15,647 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:51:15,652 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 17:59:13,870 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:59:13,875 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 17:59:13,878 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 17:59:13,883 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 18:04:51,533 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:04:51,538 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 18:04:51,543 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:04:51,547 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 18:07:07,622 [Worker-43: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:07:07,626 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 18:07:07,630 [Worker-43: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:07:07,633 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 18:08:26,934 [Worker-49: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:08:26,939 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 18:08:26,942 [Worker-49: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:08:26,945 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 18:11:43,307 [Worker-43: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:11:43,312 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 18:11:43,319 [Worker-43: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:11:43,324 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 18:15:06,177 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:15:06,181 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 18:15:06,185 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:15:06,189 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 18:18:13,496 [Worker-49: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:18:13,501 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 18:18:13,505 [Worker-49: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:18:13,509 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 18:18:37,471 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:18:37,475 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 18:18:37,478 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:18:37,481 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 18:19:48,838 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:19:48,843 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 18:19:48,847 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:19:48,851 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 18:21:37,120 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:21:37,124 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 18:21:37,126 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:21:37,130 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-18 18:21:42,969 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:21:42,973 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-18 18:21:42,976 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-18 18:21:42,979 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-19 11:20:28,130 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-19 11:22:51,275 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-19 11:22:51,288 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 11:22:51,297 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-19 11:22:51,301 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-19 11:24:32,653 [Worker-4: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-19 11:24:32,661 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 11:24:32,665 [Worker-4: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-19 11:24:32,670 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-19 11:25:26,773 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-19 11:25:26,777 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-19 11:25:26,782 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-12-19 11:25:26,786 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-12-30 11:38:31,323 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
